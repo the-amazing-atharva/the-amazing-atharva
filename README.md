@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello There! 👋
 
-<!--
-**the-amazing-atharva/the-amazing-atharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me :
+A highly motivated and drivenstudent with a passion for both coding and writing. With a natural aptitude for language and communication, I have a unique perspective on the world of technology and am able to effectively share my insights through my personal blog. 
 
-Here are some ideas to get you started:
+<br><br>
+I'm currently a beginner in web development. I'm passionate about learning new technologies and building projects that can make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills :
+1. Blogging and Tech Writing
+2. Designing using Canva
+3. Introductory C,C++ and HTML
+
+## Goals :
+1. To become a proficient web developer
+2. To improve my writing skills and share my knowledge with others through my blogs and articles
+3. To contribute to open source projects and make a positive impact on the developer community
+
+## Blogs :
+
+*Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community!*
+
+
+
+
+

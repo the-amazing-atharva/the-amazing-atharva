@@ -1,4 +1,4 @@
-### Hello There! 👋
+# Hello There! 👋
 
 ## About Me :
 A highly motivated and drivenstudent with a passion for both coding and writing. With a natural aptitude for language and communication, I have a unique perspective on the world of technology and am able to effectively share my insights through my personal blog. 

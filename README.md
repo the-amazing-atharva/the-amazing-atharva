@@ -16,6 +16,15 @@ I'm currently a beginner in web development. I'm passionate about learning new t
 2. 📚 To improve my writing skills and share my knowledge with others through my blogs and articles
 3. 🥇 To contribute to open source projects and make a positive impact on the developer community
 
+## Contact :
+Make sure to follow me :
+
+1. 👉   [Twitter 📰](https://twitter.com/atharvas_twt)
+2. 👉   [Hashnode ✍️](https://theamazingatharva.hashnode.dev/)
+3. 👉   [Medium 🎉](https://medium.com/@atharvasalitriwrites)
+4. 👉   [GitHub 💻](https://github.com/the-amazing-atharva)
+5. 👉   [LinkedIn 🔥](https://www.linkedin.com/in/atharva-salitri-89342a25b/)
+
 
 
 **Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community!**

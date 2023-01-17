@@ -18,11 +18,20 @@
 </div>
 </div>
 
-## About Me :
-A **highly motivated and driven student with a passion** for both coding and writing. With a *natural aptitude for language and communication,* I have a unique perspective on the world of technology and am able to effectively share my insights through my personal blog. 
+## :man_technologist: About Me :
+- 👨‍🎓: A **highly motivated and driven student with a passion** for both coding and writing.
+
+- 🚀: Mastering Technical Content Writing and Web Development.
+
+- :zap: In my free time, I design posts on Canva and read tech articles.
+
+- ✍️: With a *natural aptitude for language and communication,* I have a unique perspective on the world of technology and am able to effectively share my insights through my [personal blog.](https://theamazingatharva.hashnode.dev/")
+
+- 🏏: Can talk about Cricket for hours without a break.
+
 
 <br>
-I'm currently a beginner in web development. I'm passionate about learning new technologies and building projects that can make a difference.
+<em>I'm currently a beginner in web development. I'm passionate about learning new technologies and building projects that can make a difference.</em>
 
 ---
 
@@ -89,7 +98,7 @@ Make sure to follow me :
 
 
 
-**Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community!**
+**Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community! 🙌**
 
 
 

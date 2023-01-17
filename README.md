@@ -108,6 +108,13 @@ Make sure to follow me :
 
 [Read more](https://theamazingatharva.hashnode.dev/)
 
+## 😎 How about an Office quote before you go?
+<!-- ![The Office Quote](https://pbs.twimg.com/media/EHAx3iUXYAAFFUr?format=jpg&name=4096x4096) -->
+<img src="https://external-preview.redd.it/r2KvTYJjOxkHFgKBgoUTSf-RAhHCm7q5isCIn9j_d9I.jpg?auto=webp&s=c42ff711961f001fab9da47f7f9a939a26ec68b2">
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FDunderMifflin%2Fcomments%2F52bgpb%2Fwould_you_rather_be_feared_or_loved%2F&psig=AOvVaw1L8qej57ygXkZ0AqvXyZ5M&ust=1674015857007000&source=images&cd=vfe&ved=0CA4QjhxqFwoTCMifi5jhzfwCFQAAAAAdAAAAABAX">Source</a>
+
+
+
 ## 📣 Note :
 **Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community! 🙌**
 

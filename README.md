@@ -17,6 +17,10 @@
   </a>
 </div>
 </div>
+<br><br>
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1596679428071129088/1673605161/1500x500" />
+</div>
 
 ## :man_technologist: About Me :
 - 👨‍🎓: A **highly motivated and driven student with a passion** for both coding and writing.

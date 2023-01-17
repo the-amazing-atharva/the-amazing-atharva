@@ -55,12 +55,12 @@
   <!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
 
-## Skills :
+## 🤹 Skills :
 1. ✍️ Blogging and Tech Writing
 2. 💥 Designing using Canva
 3. 💪 Basic info on C,C++ and HTML
 
-## Goals :
+## 🎯 Goals :
 1. 👨‍🎓 To become a proficient web developer
 2. 📚 To improve my writing skills and share my knowledge with others through my blogs and articles
 3. 🥇 To contribute to open source projects and make a positive impact on the developer community
@@ -73,7 +73,7 @@
 
 
 <!--
-## Contact :
+## 💬 Contact :
 Make sure to follow me :
 <div id="badges">
   <a href="https://twitter.com/atharvas_twt">
@@ -99,9 +99,16 @@ Make sure to follow me :
 5. 👉   [LinkedIn 🔥](https://www.linkedin.com/in/atharva-salitri-89342a25b/)
 -->
 
+## 📝 My Latest Blog Post :
+
+[![Blog Cover Image](https://theamazingatharva.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673603988793%2F09130247-3c6b-49b3-8652-779fa2ec202a.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)](https://theamazingatharva.hashnode.dev/productivity-and-tips-for-developersbased-on-research-by-a-fellow-newbie)
+
+<strong><em>In this blog, I will be sharing how I truly understood productivity as a student, some facts about productivity and tips on how to be more productive.</em></strong>
 
 
+[Read more](https://theamazingatharva.hashnode.dev/)
 
+## 📣 Note :
 **Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community! 🙌**
 
 

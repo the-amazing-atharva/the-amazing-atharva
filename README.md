@@ -71,16 +71,16 @@
 <table>
     <tr>
         <td><img height="180px"
-                src="https://github-readme-stats.vercel.app/api?username=Arjundotadex&show_icons=true&theme=dark" />
+                src="https://github-readme-stats.vercel.app/api?username=the-amazing-atharva&show_icons=true&theme=dark" />
         <td><img height="170px"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjundotadex&layout=compact&theme=dark" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-amazing-atharva&layout=compact&theme=dark" />
         </td>
     </tr>
 </table>
 <div align="center">
     <p><img align="center"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Arjundotadex&layout=compact&theme=dark"
-            alt="Arjundotadex" /></p>
+            src="https://github-readme-streak-stats.herokuapp.com/?user=the-amazing-atharva&layout=compact&theme=dark"
+            alt="the-amazing-atharva" /></p>
 </div>
 </div>
 

@@ -68,8 +68,21 @@
 ---
 
 ## :fire: My GitHub Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-amazing-atharva&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-amazing-atharva&show_icons=true&theme=radical)<br>
+<table>
+    <tr>
+        <td><img height="180px"
+                src="https://github-readme-stats.vercel.app/api?username=the-amazing-atharva&show_icons=true&theme=dark" />
+        <td><img height="170px"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-amazing-atharva&layout=compact&theme=dark" />
+        </td>
+    </tr>
+</table>
+<div align="center">
+    <p><img align="center"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=the-amazing-atharva&layout=compact&theme=dark"
+            alt="the-amazing-atharva" /></p>
+</div>
+</div>
 
 
 <!--

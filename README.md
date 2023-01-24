@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I design posts on Canva and read tech articles.
 
-- ✍️: With a *natural aptitude for language and communication,* I have a unique perspective on the world of technology and am able to effectively share my insights through my [personal blog.](https://theamazingatharva.hashnode.dev/")
+- ✍️: With a *natural aptitude for language and communication,* I have a unique perspective on the world of technology and am able to effectively share my insights through my [personal blog.](https://theamazingatharva.hashnode.dev/)
 
 - 🏏: Can talk about Cricket for hours without a break.
 

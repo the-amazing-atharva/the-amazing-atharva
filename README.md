@@ -139,6 +139,21 @@ Make sure to follow me :
 ## 📣 Note :
 **Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community! 🙌**
 
+<br>
+  <div id="badges" align="center">
+  <a href="https://twitter.com/atharvas_twt">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://theamazingatharva.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-blue?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode Badge"/>
+  </a>
+  <a href="https://medium.com/@atharvasalitriwrites">
+  <img src="https://img.shields.io/badge/Medium-black?logo=hashnode&logoColor=white&style=for-the-badge" alt="Medium Badge">
+  </a>
+</div>
 
 
 

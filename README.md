@@ -1,4 +1,5 @@
-# Hello There! 👋
+<h1 align="center">नमस्ते🙏, I'm Atharva Salitri</h1>
+<h3 align="center">A driven student with a passion for coding and writing!</h3> <br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300"/><br><br>
@@ -65,6 +66,10 @@
 2. 📚 To improve my writing skills and share my knowledge with others through my blogs and articles
 3. 🥇 To contribute to open source projects and make a positive impact on the developer community
 
+## ✨ Socials :
+
+<p align="left"> <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="45" height="45" /></a> <a href="https://www.github.com/the-amazing-atharva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> <a href="https://theamazingatharva.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> <a href="http://www.medium.com/@atharvasalitriwrites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="45" height="45" /></a> <a href="https://www.twitter.com/atharvas_twt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a></p>
+
 ---
 
 ## :fire: My GitHub Stats :
@@ -83,6 +88,7 @@
             alt="the-amazing-atharva" /></p>
 </div>
 </div>
+<a href="http://www.github.com/the-amazing-atharva"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=the-amazing-atharva&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## ✍️ Random Dev Quote
 <br>
@@ -93,24 +99,7 @@
 </div>
 
 
-<!--
-## 💬 Contact :
-Make sure to follow me :
-<div id="badges">
-  <a href="https://twitter.com/atharvas_twt">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://theamazingatharva.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-blue?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode Badge"/>
-  </a>
-  <a href="https://medium.com/@atharvasalitriwrites">
-  <img src="https://img.shields.io/badge/Medium-black?logo=hashnode&logoColor=white&style=for-the-badge" alt="Medium Badge">
-  </a>
-</div>
--->
+
 
 <!--
 1. 👉   [Twitter 📰](https://twitter.com/atharvas_twt)

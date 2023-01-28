@@ -88,7 +88,8 @@
             alt="the-amazing-atharva" /></p>
 </div>
 </div>
-<a href="http://www.github.com/the-amazing-atharva"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=the-amazing-atharva&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--
+<a href="http://www.github.com/the-amazing-atharva"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=the-amazing-atharva&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 ## ✍️ Random Dev Quote
 <br>
@@ -109,6 +110,9 @@
 5. 👉   [LinkedIn 🔥](https://www.linkedin.com/in/atharva-salitri-89342a25b/)
 -->
 
+## 🏆 Trophies :
+[![trophy](https://github-profile-trophy.vercel.app/?username=the-amazing-atharva&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📝 My Latest Blog Post :
 
 [![Blog Cover Image](https://theamazingatharva.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673603988793%2F09130247-3c6b-49b3-8652-779fa2ec202a.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)](https://theamazingatharva.hashnode.dev/productivity-and-tips-for-developersbased-on-research-by-a-fellow-newbie)
@@ -117,11 +121,6 @@
 
 
 [Read more](https://theamazingatharva.hashnode.dev/)
-
-## 😎 How about an Office quote before you go?
-<!-- ![The Office Quote](https://pbs.twimg.com/media/EHAx3iUXYAAFFUr?format=jpg&name=4096x4096) -->
-<img src="https://external-preview.redd.it/r2KvTYJjOxkHFgKBgoUTSf-RAhHCm7q5isCIn9j_d9I.jpg?auto=webp&s=c42ff711961f001fab9da47f7f9a939a26ec68b2">
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FDunderMifflin%2Fcomments%2F52bgpb%2Fwould_you_rather_be_feared_or_loved%2F&psig=AOvVaw1L8qej57ygXkZ0AqvXyZ5M&ust=1674015857007000&source=images&cd=vfe&ved=0CA4QjhxqFwoTCMifi5jhzfwCFQAAAAAdAAAAABAX">Source</a>
 
 
 

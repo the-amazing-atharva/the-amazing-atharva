@@ -20,7 +20,7 @@
 </div>
 <br><br>
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1596679428071129088/1673605161/1500x500" />
+  <img src="https://pbs.twimg.com/profile_banners/1596679428071129088/1674977711/1500x500" />
 </div>
 
 ## :man_technologist: About Me :

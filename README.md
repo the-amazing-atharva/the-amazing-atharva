@@ -1,10 +1,18 @@
-<h1 align="center">नमस्ते🙏, I'm Atharva Salitri</h1>
+<h1 align="center">नमस्ते🙏 I'm Atharva Salitri</h1>
 <h3 align="center">A driven student with a passion for coding and writing!</h3> <br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300"/><br><br>
   <div id="badges">
-    <p align="center"><a href="https://www.github.com/the-amazing-atharva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> <a href="https://theamazingatharva.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> <a href="http://www.medium.com/@atharvasalitriwrites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="45" height="45" /></a> <a href="https://www.twitter.com/atharvas_twt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a> <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="45" height="45" /></a></p>
+    <p align="center">
+      <a href="https://www.github.com/the-amazing-atharva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> 
+      <a href="https://www.twitter.com/atharvas_twt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a> 
+      <a href="https://theamazingatharva.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a> 
+      <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> 
+       <a href="https://www.showwcase.com/theamazingatharva"  target="_blank" rel="noreferrer"><img src="https://showwcase-companies-logos.s3.amazonaws.com/showwcase_1649326857208.png" width="45" height="45" /> </a>
+      <a href="http://www.medium.com/@atharvasalitriwrites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="45" height="45" /></a> 
+      <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="50" height="50" /></a>
+      </p>
 
     
     
@@ -74,8 +82,15 @@
 3. 🥇 To contribute to open source projects and make a positive impact on the developer community
 
 ## ✨ Socials :
-
-<p align="left"><a href="https://www.github.com/the-amazing-atharva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> <a href="https://theamazingatharva.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> <a href="http://www.medium.com/@atharvasalitriwrites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="45" height="45" /></a> <a href="https://www.twitter.com/atharvas_twt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a> <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="45" height="45" /></a></p>
+<p align="left">
+      <a href="https://www.github.com/the-amazing-atharva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> 
+      <a href="https://www.twitter.com/atharvas_twt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a> 
+      <a href="https://theamazingatharva.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a> 
+      <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> 
+       <a href="https://www.showwcase.com/theamazingatharva"  target="_blank" rel="noreferrer"><img src="https://showwcase-companies-logos.s3.amazonaws.com/showwcase_1649326857208.png" width="45" height="45" /> </a>
+      <a href="http://www.medium.com/@atharvasalitriwrites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="45" height="45" /></a> 
+      <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="50" height="50" /></a>
+      </p>
 
 ---
 
@@ -122,12 +137,9 @@
 
 ## 📝 My Latest Blog Post :
 
-[![Blog Cover Image](https://theamazingatharva.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673603988793%2F09130247-3c6b-49b3-8652-779fa2ec202a.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)](https://theamazingatharva.hashnode.dev/productivity-and-tips-for-developersbased-on-research-by-a-fellow-newbie)
+[![Blog Cover Image](https://user-images.githubusercontent.com/121221252/229048939-3569cb7b-a8f5-4c54-9f9e-633c75a0dd24.png)](https://theamazingatharva.hashnode.dev/seo-basics-for-technical-writers-improving-discovery-relevance-and-authority)
 
-<strong><em>In this blog, I will be sharing how I truly understood productivity as a student, some facts about productivity and tips on how to be more productive.</em></strong>
-
-
-[Read more](https://theamazingatharva.hashnode.dev/)
+### [Read more on Hashnode](https://theamazingatharva.hashnode.dev/)
 
 
 
@@ -135,20 +147,15 @@
 **Feel free to reach out to me for any opportunities or collaborations. I'm always happy to connect and learn from others in the tech community! 🙌**
 
 <br>
-  <div id="badges" align="center">
-  <a href="https://twitter.com/atharvas_twt">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://theamazingatharva.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-blue?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode Badge"/>
-  </a>
-  <a href="https://medium.com/@atharvasalitriwrites">
-  <img src="https://img.shields.io/badge/Medium-black?logo=hashnode&logoColor=white&style=for-the-badge" alt="Medium Badge">
-  </a>
-</div>
+<p align="center">
+      <a href="https://www.github.com/the-amazing-atharva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> 
+      <a href="https://www.twitter.com/atharvas_twt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a> 
+      <a href="https://theamazingatharva.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a> 
+      <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> 
+       <a href="https://www.showwcase.com/theamazingatharva"  target="_blank" rel="noreferrer"><img src="https://showwcase-companies-logos.s3.amazonaws.com/showwcase_1649326857208.png" width="45" height="45" /> </a>
+      <a href="http://www.medium.com/@atharvasalitriwrites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="45" height="45" /></a> 
+      <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="50" height="50" /></a>
+      </p>
 
 
 

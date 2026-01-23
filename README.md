@@ -38,52 +38,98 @@
   <img src="https://pbs.twimg.com/profile_banners/1596679428071129088/1674977711/1500x500" />
 </div>
 
-## :man_technologist: About Me :
+
+## :man_technologist: About Me
 - 👨‍🎓: A **highly motivated and driven student with a passion** for both coding and writing.
-
-- 🚀: Mastering Technical Content Writing and Web Development.
-
-- :zap: In my free time, I design posts on Canva and read tech articles.
-
-- ✍️: With a *natural aptitude for language and communication,* I have a unique perspective on the world of technology and am able to effectively share my insights through my [personal blog.](https://theamazingatharva.hashnode.dev/)
-
-- 🏏: Can talk about Cricket for hours without a break.
+- 🎓 **Education**: Third Year B.Tech CSE(AI) Student at VIT Pune (**9.47 GPA**).
+- 🚀 **Focus**: Building scalable, real-time distributed systems using **MERN** stack and **Java**.
+- 🛠️ **Deep Dive**: Deeply interested in **WebRTC**, **WebSockets**, and **Networking**.
+- ✍️ **Writing**: Technical Writer with 10+ published articles on Web Dev, Programming and Movies.
+- 🏏 **Fun Fact**: I can discuss about Cricket for hours!
 
 
-<br>
-<em>I'm currently a beginner in web development. I'm passionate about learning new technologies and building projects that can make a difference.</em>
+## 🏟️ Teams I Root For
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Board_of_Control_for_Cricket_in_India_Logo_%282024%29.svg/960px-Board_of_Control_for_Cricket_in_India_Logo_%282024%29.svg.png" title="Team India" alt="India Cricket" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png" title="Mumbai Indians" alt="Mumbai Indians" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png" title="Manchester United" alt="Manchester United" height="50" />
+</p>
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## 🏆 Hackathon Wins
+- **Grand Finalist & Runner-up** | *Smart India Hackathon 2024*: Led a team of 6 to the Top 5 for my PS out of 88,000+ participating teams.
+- **1st Place Winner** | *Citi Ada Lovelace Hackathon 2025*: Outperformed 198 teams across multiple colleges.
+- **1st Runner-Up** | *OneEarth International Hackathon*: Secured £500 GBP for sustainable tech innovation.
+- **Open Source**: 10+ contributions to real-world projects; (not README.md updates 👀).
+
+---
+
+## :hammer_and_wrench: Languages and Tools
+
+### 🌐 Frontend & Design
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="CodePen" alt="CodePen" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>  
-  
-  <!-- <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
 </div>
 
-## 🤹 Skills :
-1. ✍️ Blogging and Tech Writing
-2. 💥 Designing using Canva
-3. 💪 Basic info on C,C++ and HTML
+### ⚙️ Backend & Database
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgres" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
+</div>
+
+### 💻 Languages & Dev Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+</div>
+
+### 🤖 AI, Machine Learning & Data Science
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
+  <br><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="35"/>&nbsp;
+</div>
+
+#### 🧠 Specialized AI Expertise
+- **Generative AI & LLMs:** Experienced in prompting and integrating **ChatGPT**, **Gemini**, **Grok**, and **DeepSeek** via APIs.
+- **Architectures:** **RAG** (Retrieval-Augmented Generation), **CNNs** (Convolutional Neural Networks), and **Deep Learning** pipelines.
+- **Tools:** Advanced usage of **Vector Databases**, **HuggingFace**, and **OpenCV** for computer vision tasks.
+
+---
 
 ## 🎯 Goals :
-1. 👨‍🎓 To become a proficient web developer
+1. 👨‍🎓 To become a proficient Web/Full-Stack Developer
 2. 📚 To improve my writing skills and share my knowledge with others through my blogs and articles
 3. 🥇 To contribute to open source projects and make a positive impact on the developer community
+
+---
+
+## ☕ Support my Work
+If you find my projects helpful, consider buying me a coffee!  <br>
+<a href="https://www.buymeacoffee.com/yourusername"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 ## ✨ Socials :
 <p align="left">
@@ -126,8 +172,6 @@
 </div>
 
 
-
-
 <!--
 1. 👉   [Twitter 📰](https://twitter.com/atharvas_twt)
 2. 👉   [Hashnode ✍️](https://theamazingatharva.hashnode.dev/)
@@ -161,6 +205,8 @@
       <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="50" height="50" /></a>
       </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20Coding%20🚀&fontSize=40" />
+</p>
 
 

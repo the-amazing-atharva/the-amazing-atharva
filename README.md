@@ -51,6 +51,30 @@
 
 ---
 
+## 💼 Experience
+
+### 🏢 Globant India Pvt. Ltd.  
+<img src="https://mma.prnewswire.com/media/959011/Globant_logo_actualizado.jpg?p=publish" alt="Globant Logo" height="60" align="left" /> 
+
+<br>
+<br>
+<br>
+
+**Location:** Pune, India  
+**Role:** Intern – Full Stack Developer (College Trainee)  
+**Duration:** Jan 2026 – Apr 2026  
+
+**Key Contributions:**
+- Developed and maintained full-stack web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and **Java** building scalable RESTful APIs and dynamic user interfaces  
+- Designed and optimized database systems **(MongoDB/PostgreSQL)** and implemented secure backend logic with **JWT authentication**, reducing query time by 25% and enhancing security  
+- Designing and implementing **RESTful APIs with Node.js** to handle backend business logic, CRUD operations, and data flow between frontend and backend  
+
+📜 Certificate: [View Certificate](https://drive.google.com/file/d/1a2qIjnvIYLfC69eBxAp5cilXdErAdKvr/view?usp=sharing)
+
+<br clear="left"/>
+
+---
+
 ## :hammer_and_wrench: Languages and Tools
 
 ### 🌐 Frontend & Design

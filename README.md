@@ -128,17 +128,19 @@ If you find my projects helpful, consider buying me a coffee!  <br>
 <a href="https://www.buymeacoffee.com/yourusername"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 ## ✨ Socials :
-<p align="left">
-      <a href="https://www.github.com/the-amazing-atharva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> 
-      <a href="https://www.twitter.com/atharvas_twt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a> 
-      <a href="https://theamazingatharva.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a> 
-      <a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> 
-       <a href="https://www.showwcase.com/theamazingatharva"  target="_blank" rel="noreferrer"><img src="https://showwcase-companies-logos.s3.amazonaws.com/showwcase_1649326857208.png" width="45" height="45" /> </a>
-      <a href="http://www.medium.com/@atharvasalitriwrites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="45" height="45" /></a> 
-      <a href="https://www.dev.to/atharva_salitri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="50" height="50" /></a>
-      </p>
 
----
+ <table>
+    <tr>
+      <td><a href="https://www.github.com/the-amazing-atharva"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a></td>
+      <td><a href="https://www.twitter.com/atharvas_twt"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40"/></a></td>
+      <td><a href="https://theamazingatharva.hashnode.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40"/></a></td>
+      <td><a href="https://www.linkedin.com/in/atharva-salitri-89342a25b/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/></a></td>
+      <!-- <td><a href="https://www.showwcase.com/theamazingatharva"><img src="https://showwcase-companies-logos.s3.amazonaws.com/showwcase_1649326857208.png" width="40"/></a></td> -->
+      <td><a href="http://www.medium.com/@atharvasalitriwrites"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40"/></a></td>
+      <td><a href="https://www.dev.to/atharva_salitri"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="40"/></a></td>
+    </tr>
+  </table>
+  
 
 ## :fire: My GitHub Stats :
 <table>
@@ -178,6 +180,10 @@ If you find my projects helpful, consider buying me a coffee!  <br>
 
 ## 🏆 Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=the-amazing-atharva&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-amazing-atharva&show_icons=true&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=the-amazing-atharva&theme=dracula&hide_border=true" height="160"/>
+</p> -->
 
 ## 📝 My Latest Blog Post :
 
